@@ -23,11 +23,11 @@ semaine du 17 mars:
   - https://curry.eas.gatech.edu/Courses/6140/ency/Chapter9/Ency_Atmos/Reflectance_Albedo_Surface.pdf
 
 - idéeeeees du programme: 
- - création d'un monde(environnement) de taille 3\*3;
- - initialisation du monde avec full -1;
- - la fonction aura pour paramètres des surfaces, 3 pour l'instant;
- - on changera a surface du monde par les surfaces qu'on aura mis en paramètres, exemple :
-    - glace = 1,
-    - eau = 2,
-    - surface à faible albdeo = 3;
- - création d'une nouvelle fonction qui modifie le monde en fonction de l'albedo et de la chaleur(paramètres : monde, fonction albedo,...);
+  - création d'un monde(environnement) de taille 3\*3;
+  - initialisation du monde avec full -1;
+  - la fonction aura pour paramètres des surfaces, 3 pour l'instant;
+  - on changera a surface du monde par les surfaces qu'on aura mis en paramètres, exemple :
+     - glace = 1,
+     - eau = 2,
+     - surface à faible albdeo = 3;
+  - création d'une nouvelle fonction qui modifie le monde en fonction de l'albedo et de la chaleur(paramètres : monde, fonction albedo,...);
