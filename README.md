@@ -31,3 +31,4 @@ semaine du 17 mars:
      - eau = 2,
      - surface à faible albdeo = 3;
   - création d'une nouvelle fonction qui modifie le monde en fonction de l'albedo et de la chaleur(paramètres : monde, fonction albedo,...);
+  - on a commencé le programme et créer le monde.
