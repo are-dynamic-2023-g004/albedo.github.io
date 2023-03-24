@@ -32,3 +32,10 @@ semaine du 17 mars:
      - surface à faible albdeo = 3;
   - création d'une nouvelle fonction qui modifie le monde en fonction de l'albedo et de la chaleur(paramètres : monde, fonction albedo,...);
   - on a commencé le programme et créer le monde.
+
+semaine du 25 mars :
+- https://www-sciencedirect-com.accesdistant.sorbonne-universite.fr/science/article/pii/B9780080454054006030
+- https://tc.copernicus.org/articles/14/1651/2020/
+
+- on a trouvé la formule pour la chaleur;
+- on a trouvé un article qui prouve que le Soleil c'est chaud et ça fait sécher ou fondre la glace. 
