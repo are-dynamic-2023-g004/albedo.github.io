@@ -39,3 +39,7 @@ semaine du 25 mars :
 
 - on a trouvé la formule pour la chaleur;
 - on a trouvé un article qui prouve que le Soleil c'est chaud et ça fait sécher ou fondre la glace. 
+
+semaine du 31 mars:
+- On a fini notre carnet de bord, on reprend le programme qu'on a laissé en standby et puis on a trouvé un artcile intéréssant qui parlait de la symétrie de l'albedo terrestre.
+-Pour le programme on compte utiliser les formules trouvé puis faire des graphiques au début, puis on a une idée de comment créer la fonction de la température pour étudier la conséquence de celle ci et l'effet boule de neige. 
