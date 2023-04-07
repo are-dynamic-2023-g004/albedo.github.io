@@ -47,4 +47,11 @@ semaine du 31 mars:
 
 semaine du 7 avril:
 
+
+- On a changé tout ce qu'on a fait avant, on a changé les paramètres et les données de base.
 - On reprend notre programme, au lieu de faire un monde en 3D on a décidé d'opter pour un monde linéaire, car ça n'affecte pas notre sujet et la recherche qu'on veut faire.
+- On a décidé de faire un tableau de surface au lieu de le représenter par un chiffre, car nous allons faire une fonction reflet qui va calculer l'albedo de notre monde, et donc on va utiliser les pourcentages de surface de la Terre c'est-à-dire qu'on va prendre 70 unités d'eau 10 unité de glace et 20 unités d'autres. Au total il y aura 100 unités pour le monde. (Mais on peut faire des tests avec 80 unités de surface de glace, on pourra s'intéresser au autre cas pour observer comment juste changer les unités d'une surface peut changer le monde (effet boule de neige))
+- Ensuite après avoir fait cette fonction nous avons commencé la fonction température qui permet de calculer la température du monde avec une température de base, puis elle va permettre aussi de calculer le réchauffement de la terre et si température trop haute fonte des glaces et réchauffement de l'eau avec l'augmentation du pH (mais cela n'est pas notre étude). Quand la glace va fondre l'eau va augmenter d'une unité par unité de glace fondu et à partir de 5 unités d'eau augmenté, la surface others sera réduit de 1 et augmente l'eau de 1.
+- On a une idée de créer la fonction 'fonte' on ne connaît pas encore le nom, qui va se consacrer à faire chauffer ou réduire la température qui va permettre de soit faire fondre la glace ou d'augmenter la surface de glace.
+- On va ensuite créer une fonction moyenne température qui permettre de renouveler la température de base de notre monde et puis on peut faire une boucle à l'intérieur de cette fonction qui va permettre de calculer la température au bout de x temps (qu'on va mettre en paramètre).
+- on s'est arrêté à la fonction température.
