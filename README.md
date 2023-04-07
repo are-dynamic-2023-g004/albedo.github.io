@@ -3,6 +3,7 @@
  Membres du projet :
  - Louis
  - Asmar
+ -Kairui
 
 Descriptif du projet :
 
