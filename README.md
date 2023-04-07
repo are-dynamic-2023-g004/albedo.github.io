@@ -44,3 +44,7 @@ semaine du 25 mars :
 semaine du 31 mars:
 - On a fini notre carnet de bord, on reprend le programme qu'on a laissé en standby et puis on a trouvé un artcile intéréssant qui parlait de la symétrie de l'albedo terrestre.
 -Pour le programme on compte utiliser les formules trouvé puis faire des graphiques au début, puis on a une idée de comment créer la fonction de la température pour étudier la conséquence de celle ci et l'effet boule de neige. 
+
+semaine du 7 avril:
+
+- On reprend notre programme, au lieu de faire un monde en 3D on a décidé d'opter pour un monde linéaire, car ça n'affecte pas notre sujet et la recherche qu'on veut faire.
