@@ -56,5 +56,6 @@ semaine du 7 avril:
 
 semaine du 14 avril:
 
-- On reprend où on s'est arrêté, on essaye de finir la fonction température (on va mettre en paramètre le température moyenne avant de lancer la fonction, puis le monde, et le nombre de jours).
-- 
+- On reprend où on s'est arrêté, on essaye de finir la fonction température (on va mettre en paramètre le température moyenne avant de lancer la fonction, puis le monde, et le nombre de jours) On va utiliser la formule de la température equilibre. On a créer une fonction temp_equilibre qui va être la fonction qui sera utilisé pour la fonction température pour nous aider à calculer la température. 
+- fonction qui convertie les K en C, car la température d'équilibre est en K.
+- fonction fonte_glace qui va calculer qui va soit faire fondre la glace soit glacer l'océan.
