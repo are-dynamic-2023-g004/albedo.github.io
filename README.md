@@ -58,4 +58,8 @@ semaine du 14 avril:
 
 - On reprend où on s'est arrêté, on essaye de finir la fonction température (on va mettre en paramètre le température moyenne avant de lancer la fonction, puis le monde, et le nombre de jours) On va utiliser la formule de la température equilibre. On a créer une fonction temp_equilibre qui va être la fonction qui sera utilisé pour la fonction température pour nous aider à calculer la température. 
 - fonction qui convertie les K en C, car la température d'équilibre est en K.
-- fonction ice_melt qui va calculer la glace qui va soit faire fondre la glace soit glacer l'océan. On va faire qu'à 0 degré Celcius la glace ne fond pas, à partir de >0 on fait que la glace fond par 0.05*température de base et puis pour le cas 0>temp on va 
+- fonction ice_level qui va calculer la glace qui va soit faire fondre la glace soit glacer l'océan. On va faire a fait que à 0 degré Celcius la glace ne fond pas, sinon elle augmente si la température est négatif si elle est positif, on augmente ou diminue la glace de 0.05*temp et de même pour l'eau sauf que pour celle ci on la rend opposé à la glace, c'est-à-dire si la glace fond l'Océan est augmenté sinon l'Océan diminue et la glace augmente.
+- on a ensuite fait une fonction pour calculer le niveau de l'océan qui va être codé comme ceci on va garder la fonction en haut et on va faire rajouter le fait que lorsqu'on atteint 5 unité d'eau supplémentaire, on va diminuer la surface others de 1 et l'eau va augmenté de 1 en rapport à la montée de l'Océan qui prend petit à petit les surfaces.
+- Puis on a fait une fonction year qui calcule une année de cela
+- Enfin on a fini par la fonction Étude qui va calculer les surfaces et la température en fonction des années qu'on met en paramètres
+- On a fini notre diapo et on commence à rédiger le texte pour le rapport.
