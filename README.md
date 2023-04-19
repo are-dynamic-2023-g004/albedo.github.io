@@ -5,7 +5,28 @@
  - Asmar
  - Kairui
 
+
+
+Notre projet:
+
 Descriptif du projet :
+
+Notre étude se porte sur l'albedo et l'augmenté de celle-ci en fonction de la température et inversement, on va définir l'albedo comme la réflexion des surfaces, et on va se demander si l'albedo a un impact sur l’environnement et si elle est a un impact comment cet impact peut-elle infecté la vie qu'on mènera dans le futur.
+
+Questions qu'on peut se poser par rapport à notre sujet:
+
+Avec un thème aussi vaste, on peut se demander si la température a-t-elle un réel impact sur les surfaces de la planète ? On peut aussi se demander si on n'applique pas les recommandations du GIEC, comment la température va-t-elle augmentée. Puis si notre température moyen était de 14 degrée Celcius telle qui l'est actuellement, comment la situation peut-elle évoluée. Enfin on peut se demander si tout ceci n'est pas en faite relier à un effet boule de neige qui impact notre environnement et notre futur si on n'applique pas les recommandations du GIEC.
+
+Description de notre modèle:
+
+Descritpion des résultats:
+
+Problèmes rencontrés:
+
+Conclusion:
+
+Ainsi on remarque une certaine corrélation entre l'albedo et la température, comme on a pu le voir plus l'albedo est élevé plus la température diminue et la glace augmente, cependant lorsque la température est haute on remarque que l'Océan augmente et l'albedo diminue, dans notre modèle on a décide le modélisé ainsi mais si on voulait faire un projet plus complet on aurait une fonction saison qui va calculer la température en fonction des saisons ce qui manque à notre modèle mais on peut voir déjà avec notre modèle que si on ne fait rien, les glaciers vont fondre il y aura plus d'eau moins de surface de sol et les glaciers vont fondre. Pour conclure on remarque que notre sujet qui était vu comme vaste et en faite relié et qu'il y a un effet boule de neige sur le réchauffement climatique, donc on peut se demander si agir maintenant pourra-t-il changer l'impact que nous avons fait dans 1000 ans et est-ce que dans le futur il y aura une énergie naturelle non polluante qui va permettre à l'humanité à un stade imaginable ?
+
 
 
 Semaine 10 mars :
