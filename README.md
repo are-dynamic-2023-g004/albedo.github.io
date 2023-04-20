@@ -21,7 +21,11 @@ Avec un thème aussi vaste, on peut se demander si la température a-t-elle un r
 
 Description de notre modèle:
 
+Tout d'abord, nous avons initialisé la proportion et l'albedo de différentes surface de la planète al_ice étant la moyenne de l'albedo de la neige tassée, fraîche et de la glace et al_others une estimation de la moyenne de l'albedo des autres surfaces de la planète. ini_world est une fonction qui initialise une liste représantant un monde (ici la planète Terre), lui donnant comme élément les différentes proportions de surface spécifié au début du programme. Puis La fonction albedo_wd renvoie l'albedo moyen du monde mis en paramètre (la Terre à un albedo moyen de 0.3). equi_temp renvoie la température d'équilibre en Kelvin d'une planète selon son albedo, donc nous avons créé une fonction permettant de convertir la température mis en paramètre de Kelvin à Celcius. Ensuite nous avons créé une fonction qui modifie la proportion de glace et d'eau dans notre monde en fonction de la température. On considère qu'un appel à cet fonction équivaut à une année passé dans le monde. Enfin, nous avons La fonction étude enregistre et affiches les différentes modifications réalisé dans le monde dans un intervalle de n années à partir d'une température initiale choisie (température d'équilibre par défaut).
+
 Descritpion des résultats:
+
+
 
 Problèmes rencontrés:
 
