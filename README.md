@@ -9,6 +9,8 @@
 
 Notre projet:
 
+L'albedo terrestre
+
 Descriptif du projet :
 
 Notre étude se porte sur l'albedo et l'augmenté de celle-ci en fonction de la température et inversement, on va définir l'albedo comme la réflexion des surfaces, et on va se demander si l'albedo a un impact sur l’environnement et si elle est a un impact comment cet impact peut-elle infecté la vie qu'on mènera dans le futur.
@@ -23,9 +25,11 @@ Descritpion des résultats:
 
 Problèmes rencontrés:
 
+On a rencontré plusieurs problèmes lors de la mise en oeuvre de notre étude, car on a rencontré des difficultés pour les utilisé les formules qu'on a trouvé lors de notre recherche documentaire, elle était très complexe et très dur à utlisé, par conséquent on a décide de simplifier les formules en utlisant des formules générales telle que la formule de la température d'équilibre, pour l'Océa on a voulu faire une fonction qui permetait de calculer la surface terestre et celle de l'Océan en fonction de la taille de l'Océan. Il y aussi le fait que le sujet soit très vaste et est très compliqué à étudier, car il y a beaucoup de paramètres on peut prendre par exemple les marées, car avec la marées basse il y a moins de surface d'eau donc moins d'albedo; on peut prendre aussi le cas de la nuit où il y a peu d'albedo sur un côté de la terre et sur l'autre les rayons sont renvoyés. On peut ainsi dire que les problèmes rencontrés ont été énorme et que notre étude a été simplifié pour le faire et pour le montrer plus facilement.
+
 Conclusion:
 
-Ainsi on remarque une certaine corrélation entre l'albedo et la température, comme on a pu le voir plus l'albedo est élevé plus la température diminue et la glace augmente, cependant lorsque la température est haute on remarque que l'Océan augmente et l'albedo diminue, dans notre modèle on a décide le modélisé ainsi mais si on voulait faire un projet plus complet on aurait une fonction saison qui va calculer la température en fonction des saisons ce qui manque à notre modèle mais on peut voir déjà avec notre modèle que si on ne fait rien, les glaciers vont fondre il y aura plus d'eau moins de surface de sol et les glaciers vont fondre. Pour conclure on remarque que notre sujet qui était vu comme vaste et en faite relié et qu'il y a un effet boule de neige sur le réchauffement climatique, donc on peut se demander si agir maintenant pourra-t-il changer l'impact que nous avons fait dans 1000 ans et est-ce que dans le futur il y aura une énergie naturelle non polluante qui va permettre à l'humanité à un stade imaginable ?
+Ainsi on remarque une certaine corrélation entre l'albedo et la température, comme on a pu le voir plus l'albedo est élevé plus la température diminue et la glace augmente, cependant lorsque la température est haute on remarque que l'Océan augmente et l'albedo diminue, dans notre modèle on a décide le modélisé ainsi mais si on voulait faire un projet plus complet on aurait une fonction saison qui va calculer la température en fonction des saisons ce qui manque à notre modèle mais on peut voir déjà avec notre modèle que si on ne fait rien, les glaciers vont fondre et il y aura plus d'eau. On a rencontré énormément de problème, mais on a su se diriger vers un objectif assez simple qui est de montrer que notre étude simplifier montre que d'après du GIEC la température moyenne va causer un changement climatique, il y aura moins de glacier et il y aura plus de surface d'eau et moins de surface terestre. Pour conclure on remarque que notre sujet qui était vu comme vaste et en faite relié et qu'il y a un effet boule de neige sur le réchauffement climatique, donc on peut se demander si agir maintenant pourra-t-il changer l'impact que nous avons fait dans 1000 ans et est-ce que dans le futur il y aura une énergie naturelle non polluante qui va permettre à l'humanité à un stade imaginable ?
 
 
 
